@@ -1,4 +1,4 @@
-import TodoContainer from '@/components/todo/todoContainer';
+import TodoContainer from '@/components/todo/TodoContainer';
 import Container from '@/components/ui/Container';
 
 
